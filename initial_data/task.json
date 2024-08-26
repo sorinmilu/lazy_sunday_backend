@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Setup project",
+        "description": "Setup initial project structure",
+        "owner_id": 1
+    },
+    {
+        "title": "Add migrations",
+        "description": "Create and apply database migrations",
+        "owner_id": 1
+    }
+]
